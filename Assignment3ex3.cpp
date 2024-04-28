@@ -1,3 +1,7 @@
+//Write a program that simulates the dialing of a phone number.  
+
+
+
 # include <iostream>
 # include <string>
 # include <iomanip>
